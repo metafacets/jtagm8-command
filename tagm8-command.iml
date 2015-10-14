@@ -17,7 +17,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="jruby-1.7.18-p551 facet library" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="aruba (v0.6.2, jruby-1.7.18-p551) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aruba (v0.8.1, jruby-1.7.18-p551) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, jruby-1.7.18-p551) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.8.5, jruby-1.7.18-p551) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.5.5, jruby-1.7.18-p551) [gem]" level="application" />
